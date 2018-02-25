@@ -1,0 +1,5 @@
+= Elmahbeat Docs
+
+Welcome to the Elmahbeat documentation.
+
+
