@@ -2,8 +2,34 @@
   title: elmahbeat
   description:
   fields:
-    - name: counter
-      type: long
-      required: true
-      description: >
-        PLEASE UPDATE DOCUMENTATION
+    - name: application
+      type: string
+
+    - name: host
+      type: string
+
+    - name: type
+      type: string
+
+    - name: message
+      type: string  
+
+    - name: source
+      type: string    
+
+    - name: detail
+      type: string            
+
+    - name: user
+      type: string        
+    
+    - name: time
+      type: date    
+
+    - name: statusCode
+      type: integer           
+
+    - name: webHostHtmlMessage
+      type: string        
+    
+     

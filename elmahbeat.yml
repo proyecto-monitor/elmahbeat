@@ -1,6 +1,11 @@
 elmahbeat:
   # Defines how often an event is sent to the output
   period: 10s
+  url: "localhost"
+  database: "elmah-go"
+  collection: "Elmah"
   
 output.console:
   pretty: true  
+
+ 
